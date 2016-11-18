@@ -28,6 +28,7 @@ Dependencies
 
 * highlight
         ubuntu:  apt-get install highlight 
+        
         OSX : brew install highlight # On OSX or use your regular package manager
 
 How to tweak
